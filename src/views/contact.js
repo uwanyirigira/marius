@@ -10,8 +10,8 @@ return(
     <h2>GET IN TOUCH</h2>
     <h3>I’M ALWAYS OPEN TO DISCUSSING PRODUCT DESIGN WORK OR PARTNERSHIPS.</h3>
     </div>
-    <text>phone number </text>
-    <text> +250 783 912 296</text>
+    <p>phone number </p>
+    <p>+250 783 912 296</p>
     <text>insta-gram</text>
     <text>phone number</text>
     <text>phone number</text>
