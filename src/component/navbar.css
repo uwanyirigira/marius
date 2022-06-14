@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.8rem 4rem;
+    text-align: center;
+    
+
+    
+}
+.logo-img{
+    width: 140px;
+    object-fit: cover;
+    border-radius: 40%;
+}
+.nav-links{
+    display: flex;
+    list-style-type: none;
+    gap: 1.4rem;
+   
+    
+
+}
+.nav-link:link,
+.nav-link:visited{
+font-size:1.3rem;
+/* text-align: none;
+color: white;
+font-weight: 500; */
+
+}
+.nav-link:hover,
+.nav-link:active{
+    color: brown;
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav-link{
+    text-decoration: none;
+}
+.link-green:link,
+.link-green:visited{
+    color: green;
+
+}
+.link-green:hover,
+.link-green:active{
+    color:black;
+
+}
+
+
+.btn-link:link,
+.btn-link:visited{
+    background: green;
+    padding: 1.2rem 2.2rem;
+
+}
+.btn-link:hover,
+.btn-link:active{
+    background:yellow
+}
