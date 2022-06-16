@@ -1,7 +1,7 @@
 import Title from "antd/lib/skeleton/Title";
 import { Carousel } from 'antd';
 import React from "react";
-import { Card, Image, Space,Input, Button} from "antd";
+import { Card,  Space,Input, Button} from "antd";
 const Singletour=({data})=>{
 return(
 
